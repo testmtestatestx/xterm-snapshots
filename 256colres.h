@@ -7,6 +7,7 @@
 #define included_256colres_h
 
 COLOR_RES("16",	screen.Acolors[16],	DFT_COLOR("rgb:00/00/00")),
+COLOR_RES("16",	screen.Acolors[16],	DFT_COLOR("rgb:00/00/00")),
 COLOR_RES("17",	screen.Acolors[17],	DFT_COLOR("rgb:00/00/5f")),
 COLOR_RES("18",	screen.Acolors[18],	DFT_COLOR("rgb:00/00/87")),
 COLOR_RES("19",	screen.Acolors[19],	DFT_COLOR("rgb:00/00/af")),
